@@ -1,7 +1,7 @@
 #index.html
 
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in many things.
+- 👀 I’m interested in data, walking and thinking.
 - 🌱 I’m currently learning data analytics
 - 
 - 💞️ I’m looking to collaborate on ...
