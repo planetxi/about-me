@@ -1,6 +1,6 @@
 #index.html
 
-- 👋 Hi, I’m @rk22361
+- 👋 Hi, I’m Rahul
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on ...
